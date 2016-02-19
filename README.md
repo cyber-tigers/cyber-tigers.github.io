@@ -1,3 +1,3 @@
-# LC CyberTigers Website
+# Official CyberTigers Website
 
-Created by Spencer Tabino.
+Welcome to the source code repository for [www.cybertigers.club](http://cybertigers.club/), the official website for the Lewis & Clark CyberTigers.
