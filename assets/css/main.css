@@ -1575,6 +1575,7 @@
 			display: block;
 			height: 300px;
 			margin: 0 0 2.5em 0;
+			overflow: hidden;
 		}
 
 		.image.left {
